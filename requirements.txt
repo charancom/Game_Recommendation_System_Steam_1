@@ -1,0 +1,17 @@
+streamlit
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+scipy
+surprise
+requests
+scikit-learn
+joblib
+ipywidgets
+notebook
+jupyter
+jupyterlab
+fastapi
+uvicorn
