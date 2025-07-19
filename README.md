@@ -90,32 +90,6 @@ This technique looks at the behavior of users with similar preferences. If a use
 The application utilizes data from Steam's API to gather game information, user ratings, and reviews. This data is crucial for generating accurate recommendations.
 
 ## 🤝 Contributing
-
-We welcome contributions to improve the **Steam Game Recommender**. If you have ideas or enhancements, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-For questions or suggestions, feel free to reach out:
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [EmmanuelleTOCS](https://github.com/EmmanuelleTOCS)
-
-## 📦 Releases
-
-You can download the latest release from the [Releases section](https://github.com/EmmanuelleTOCS/steam-game-recommender/releases). Follow the instructions to execute the downloaded files.
-
-For more information, please check the **Releases** section in the repository.
-
----
-
-Feel free to explore the code, suggest improvements, and contribute to making the **Steam Game Recommender** even better!
